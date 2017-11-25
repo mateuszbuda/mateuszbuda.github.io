@@ -2,9 +2,9 @@
 title: "Class Imbalance Problem in Convolutional Neural Networks"
 description: "In this study, we systematically investigate the impact of class imbalance on classification performance of convolutional neural networks (CNNs) and compare perform an extensive comparison of several methods to address the issue.
 Based on results from our experiments we conclude that
-(i) the effect of class imbalance on classification performance is detrimental;
-(ii) the method of addressing class imbalance that emerged as dominant in almost all analyzed scenarios was oversampling;
-(iii) thresholding should be applied to compensate for prior class probabilities when overall number of properly classified cases is of interest."
+(i)&nbsp;the effect of class imbalance on classification performance is detrimental;
+(ii)&nbsp;the method of addressing class imbalance that emerged as dominant in almost all analyzed scenarios was oversampling;
+(iii)&nbsp;thresholding should be applied to compensate for prior class probabilities when overall number of properly classified cases is of interest."
 ---
 
 <style>
