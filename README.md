@@ -1,1 +1,1 @@
-Personal website to show off my research projects.
+<h1>Projects</h1>
