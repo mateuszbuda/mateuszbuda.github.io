@@ -33,7 +33,7 @@ title: "Resume"
 </style>
 
 <div id="sidebar">
-	<img class="img-circle" src="./assets/photo.jpg" width="128px" height="128px">
+	<img class="img-circle" src="/images/photo.jpg" width="128px" height="128px">
 	<p></p>
 	<h3>Mateusz Buda</h3>
 	<h4>Research Scholar</h4>
