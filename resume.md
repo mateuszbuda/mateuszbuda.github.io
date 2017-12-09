@@ -109,5 +109,7 @@ magnetic resonance images.</li>
 		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i>arXiv preprint arXiv:1710.05381</i>, 2017.
 	</p>
 
+	<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
+
 	<hr>
 </div>
