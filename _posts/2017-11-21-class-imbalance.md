@@ -28,13 +28,13 @@ Our main evaluation metric is area under the receiver operating characteristic c
 <table style="text-align: center;">
 	<tr>
 		<td>
-			<img src="/images/mnist.png" alt="MNIST" style="max-height: 200px; width: auto;" />
+			<img src="/images/imbalance/mnist.png" alt="MNIST" style="max-height: 200px; width: auto;" />
 		</td>
 		<td>
-			<img src="/images/cifar.png" alt="CIFAR-10" style="max-height: 200px; width: auto;" />
+			<img src="/images/imbalance/cifar.png" alt="CIFAR-10" style="max-height: 200px; width: auto;" />
 		</td>
 		<td>
-			<img src="/images/imagenet.jpg" alt="ImageNet" style="max-height: 200px; width: auto;" />
+			<img src="/images/imbalance/imagenet.jpg" alt="ImageNet" style="max-height: 200px; width: auto;" />
 		</td>
 	</tr>
 	<tr>

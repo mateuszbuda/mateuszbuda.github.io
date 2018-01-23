@@ -12,6 +12,9 @@ title: "Resume"
     border: solid 1px black;
     padding: 5px 10px;
 }
+.tag-text:hover {
+	background-color: #F5F5F5;
+}
 #content {
 	padding-left: 6px;
 	overflow: hidden;
@@ -38,8 +41,8 @@ title: "Resume"
 	<h3>Mateusz Buda</h3>
 	<h4>Research Scholar</h4>
 	<p><span class="tag-text">Machine Learning</span></p>
-	<p><span class="tag-text">Naural Networks</span></p>
 	<p><span class="tag-text">Computer Vision</span></p>
+	<p><span class="tag-text">Naural Networks</span></p>
 </div>
 
 <div id="content">
@@ -62,6 +65,7 @@ title: "Resume"
 	<h3>Research</h3>
 	<p>
 		<strong>Duke University</strong>, Durham, NC, USA<br>
+		Department of Radiology<br>
 		Carl E. Ravin Advanced Imaging Laboratories
 	</p>
 	<p>Research Scholar in Computer Vision and Machine Learning</p>
