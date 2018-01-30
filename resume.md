@@ -42,7 +42,7 @@ title: "Resume"
 	<h4>Research Scholar</h4>
 	<p><span class="tag-text">Machine Learning</span></p>
 	<p><span class="tag-text">Computer Vision</span></p>
-	<p><span class="tag-text">Naural Networks</span></p>
+	<p><span class="tag-text">Neural Networks</span></p>
 </div>
 
 <div id="content">
