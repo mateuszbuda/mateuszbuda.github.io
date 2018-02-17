@@ -77,7 +77,7 @@ Figure 1: Examples from datasets used in experiments.
 			LeNet-5
 		</td>
 		<td>
-			<a href="https://github.com/BVLC/caffe/tree/master/examples/mnist">github.com/BVLC</a>
+			<a href="https://github.com/BVLC/caffe/tree/master/examples/mnist">BVLC</a>
 		</td>
 		<td>
 			<a href="http://www.iro.umontreal.ca/~lisa/bib/pub_subject/finance/pointeurs/lecun-98.pdf">umontreal.ca</a>
@@ -91,10 +91,10 @@ Figure 1: Examples from datasets used in experiments.
 			All-CNN
 		</td>
 		<td>
-			<a href="https://github.com/mateuszbuda/ALL-CNN">github.com/mateuszbuda</a>
+			<a href="https://github.com/mateuszbuda/ALL-CNN">mateuszbuda</a>
 		</td>
 		<td>
-			<a href="https://arxiv.org/abs/1412.6806">arXiv:1412.6806</a>
+			<a href="https://arxiv.org/abs/1412.6806">arXiv</a>
 		</td>
 	</tr>
 	<tr style="border-bottom: 2px solid black;">
@@ -105,10 +105,10 @@ Figure 1: Examples from datasets used in experiments.
 			ResNet-10
 		</td>
 		<td>
-			<a href="https://github.com/cvjena/cnn-models">github.com/cvjena</a>
+			<a href="https://github.com/cvjena/cnn-models">cvjena</a>
 		</td>
 		<td>
-			<a href="https://arxiv.org/abs/1612.01452">arXiv:1612.01452</a>
+			<a href="https://arxiv.org/abs/1612.01452">arXiv</a>
 		</td>
 	</tr>
 	<tr>
