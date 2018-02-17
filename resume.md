@@ -48,6 +48,7 @@ title: "Resume"
 <div id="content">
 
 	<hr>
+	&nbsp;
 
 	<h3>Education</h3>
 	<p><strong>KTH Royal Institute of Technology</strong>, Stockholm, Sweden</p>
@@ -61,6 +62,7 @@ title: "Resume"
 	</p>
 
 	<hr>
+	&nbsp;
 
 	<h3>Research</h3>
 	<p>
@@ -71,17 +73,27 @@ title: "Resume"
 	<p>Research Scholar in Computer Vision and Machine Learning</p>
 	<p>January 2017 - ongoing</p>
 	<p>
-		<lu>
+		<ul>
 			<li>A systematic study of the class imbalance problem in convolutional neural networks.</li>
-			<li>Segmentation of brain tumor in magnetic resonance images for radiogenomics guided
-cancer treatment.</li>
+			<li>Segmentation of brain tumor in magnetic resonance images for fully automatic inference
+of its genomic subtypes.</li>
 			<li>Deep radiogenomics - classification of brain tumor to molecular subtypes based on
-magnetic resonance images.</li>
-			<li>Deep learning for malignancy estimation of thyroid nodules from ultrasound images.</li>
-		</lu>
+magnetic resonance images using transfer learning.</li>
+			<li>Deep learning for malignancy estimation of thyroid nodules from ultrasound images
+using multi-task learning.</li>
+		</ul>
+	</p>
+	<p style="padding-top: 0.5em">Served as a reviewer for:</p>
+	<p>
+		<ul>
+			<li>
+				The Journal of Machine Learning Research
+			</li>
+		</ul>
 	</p>
 
 	<hr>
+	&nbsp;
 
 	<h3>Expeprience</h3>
 	<p><strong>inFullMobile</strong>, Warsaw, Poland</p>
@@ -94,6 +106,7 @@ magnetic resonance images.</li>
 	<p>4FUN APP - second screen application for TV station.</p>
 
 	<hr>
+	&nbsp;
 
 	<h3>Skills</h3>
 	<p><strong>Python</strong> - Keras, Tensorflow, scikit-learn, Django</p>
@@ -102,18 +115,28 @@ magnetic resonance images.</li>
 	<p><strong>C · C++</strong></p>
 
 	<hr>
+	&nbsp;
 	
 	<h3>Languages</h3>
-	<p>Polish (native), English (advanced), German (basics)</p>
+	<p>English (advanced), German (basics), Polish (native)</p>
 
 	<hr>
+	&nbsp;
 	
 	<h3>Publications</h3>
+	<!-- <p>
+		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. "Deep learning in radiology: an overview of the concepts and a survey of the state of the art." <i>arXiv preprint arXiv:</i>, 2018.
+	</p> -->
 	<p>
-		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i>arXiv preprint arXiv:1710.05381</i>, 2017.
+		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i><a href="https://arxiv.org/abs/1710.05381" target="_blank">arXiv preprint arXiv:1710.05381</a></i>, 2017.
 	</p>
-
-	<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
+	<!-- <h4>Under review:</h4>
+	<p>
+		<strong>Mateusz Buda</strong>, Ashirbani Saha, and Maciej A Mazurowski. "Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.", 2018.
+	</p> -->
+	<p>
+		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
+	</p>
 
 	<hr>
 </div>
