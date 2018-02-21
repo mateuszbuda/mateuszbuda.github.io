@@ -132,5 +132,6 @@ Based on results from our experiments we conclude that
 
 ### Links
 
-- Full paper: [arXiv:1710.05381](https://arxiv.org/abs/1710.05381)<br>
-- Extended report: [diva2:1165840](http://www.diva-portal.org/smash/get/diva2:1165840/FULLTEXT01.pdf)<br>
+- Full paper: <a href="https://arxiv.org/abs/1710.05381" target="_blank">arXiv:1710.05381</a>
+- Extended report: <a href="http://www.diva-portal.org/smash/get/diva2:1165840/FULLTEXT01.pdf" target="_blank">diva2:1165840</a>
+
