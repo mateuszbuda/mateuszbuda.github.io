@@ -47,22 +47,35 @@ title: "Resume"
 
 <div id="content">
 
-	<hr>
-	&nbsp;
+	<hr style="margin-bottom: 1.5em">
 
 	<h3>Education</h3>
 	<p><strong>KTH Royal Institute of Technology</strong>, Stockholm, Sweden</p>
 	<p>Master of Science in Machine Learning, 2015 - 2017</p>
 	<p>Thesis: <i>A systematic study of the class imbalance problem in convolutional neural networks.</i></p>
+	<p>
+		Supervisors: <a href="http://www.csc.kth.se/~atsuto/" target="_blank">Atsuto Maki, Ph.D.</a>, <a href="http://deckard.duhs.duke.edu/~mazurowski/index.html" target="_blank">Maciej A. Mazurowski, Ph.D.</a>
+	</p>
+	<p>
+		Examiner: <a href="https://www.nada.kth.se/~ala/" target="_blank">Anders B. Lansner, Ph.D.</a>
+	</p>
+
+	<hr style="margin-left: 30%; margin-right: 30%; margin-bottom: 1em">
+
 	<p><strong>Warsaw University of Technology</strong>, Poland</p>
 	<p>Bachelor of Engineering in Computer Science, 2011 - 2015</p>
 	<p>
 		Thesis: <i>OCR system for text recognition in images of specified type.</i><br>
 		Image to text API with custom OCR component and mobile client.
 	</p>
+	<p>
+		Supervisor: <a href="http://www.mini.pw.edu.pl/~lucknerm/en/" target="_blank">Marcin Luckner, Ph.D.</a>
+		<p>
+		Examiner: <a href="https://www.mini.pw.edu.pl/~homenda/index2.php" target="_blank">Władysław Homenda, Ph.D.</a>
+	</p>
+	</p>
 
-	<hr>
-	&nbsp;
+	<hr style="margin-bottom: 1.5em">
 
 	<h3>Research</h3>
 	<p>
@@ -83,7 +96,9 @@ magnetic resonance images using transfer learning.</li>
 using multi-task learning.</li>
 		</ul>
 	</p>
-	<p style="padding-top: 0.5em">Served as a reviewer for:</p>
+	<!-- <p style="padding-top: 0.5em">Served as a reviewer for:</p> -->
+	<hr style="margin-left: 30%; margin-right: 30%; margin-bottom: 1em">
+	<p>Served as a reviewer for:</p>
 	<p>
 		<ul>
 			<li>
@@ -92,21 +107,22 @@ using multi-task learning.</li>
 		</ul>
 	</p>
 
-	<hr>
-	&nbsp;
+	<hr style="margin-bottom: 1.5em">
 
 	<h3>Expeprience</h3>
 	<p><strong>inFullMobile</strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>February 2015 - August 2016</p>
 	<p>WOW Keyboard - messaging iOS application for sharing media content.</p>
+
+	<hr style="margin-left: 30%; margin-right: 30%; margin-bottom: 1em">
+
 	<p><strong>Senfino</strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>June 2014 - January 2015</p>
 	<p>4FUN APP - second screen application for TV station.</p>
 
-	<hr>
-	&nbsp;
+	<hr style="margin-bottom: 1.5em">
 
 	<h3>Skills</h3>
 	<p><strong>Python</strong> - Keras, Tensorflow, scikit-learn, Django</p>
@@ -114,14 +130,12 @@ using multi-task learning.</li>
 	<p><strong>iOS · Android</strong> - Swift, Objective-C, Java</p>
 	<p><strong>C · C++</strong></p>
 
-	<hr>
-	&nbsp;
+	<hr style="margin-bottom: 1.5em">
 	
 	<h3>Languages</h3>
 	<p>English (advanced), German (basics), Polish (native)</p>
 
-	<hr>
-	&nbsp;
+	<hr style="margin-bottom: 1.5em">
 	
 	<h3>Publications</h3>
 	<!-- <p>
@@ -138,5 +152,5 @@ using multi-task learning.</li>
 		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
 	</p>
 
-	<hr>
+	<hr style="margin-bottom: 1.5em">
 </div>
