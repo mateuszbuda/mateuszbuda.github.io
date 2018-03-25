@@ -39,7 +39,7 @@ title: "Resume"
 	<img class="img-circle" src="/images/photo.jpg" width="128px" height="128px">
 	<p></p>
 	<h3>Mateusz Buda</h3>
-	<h4>Research Scholar</h4>
+	<h4>Associate in Research</h4>
 	<p><span class="tag-text">Machine Learning</span></p>
 	<p><span class="tag-text">Computer Vision</span></p>
 	<p><span class="tag-text">Neural Networks</span></p>
@@ -88,12 +88,10 @@ title: "Resume"
 	<p>
 		<ul>
 			<li>A systematic study of the class imbalance problem in convolutional neural networks.</li>
-			<li>Segmentation of brain tumor in magnetic resonance images for fully automatic inference
-of its genomic subtypes.</li>
-			<li>Deep radiogenomics - classification of brain tumor to molecular subtypes based on
-magnetic resonance images using transfer learning.</li>
-			<li>Deep learning for malignancy estimation of thyroid nodules from ultrasound images
-using multi-task learning.</li>
+			<li>Segmentation of brain tumor in magnetic resonance images for fully automatic inference of its genomic subtypes.</li>
+			<li>Deep radiogenomics - classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
+			<li>Deep learning for detection and malignancy estimation of thyroid nodules in ultrasound images.</li>
+			<li>Applications of genetic algorithms to optimization of a scoring system for predicting malignancy of thyroid nodules based on imaging features (TI-RADS).</li>
 		</ul>
 	</p>
 	<!-- <p style="padding-top: 0.5em">Served as a reviewer for:</p> -->
