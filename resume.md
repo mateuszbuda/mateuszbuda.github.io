@@ -140,7 +140,7 @@ hr {
 	<p><strong>Python</strong> - Keras, Tensorflow, scikit-learn, Django</p>
 	<p><strong>MatLab</strong> - Math, Statistics, and Optimization, Image Processing and Computer Vision</p>
 	<p><strong>iOS · Android</strong> - Swift, Objective-C, Java</p>
-	<p><strong>C · C++</strong></p>
+	<p><strong>C · C++</strong> - CUDA, Caffe</p>
 
 	<hr />
 	
