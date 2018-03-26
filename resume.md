@@ -4,7 +4,7 @@ title: "Resume"
 
 <style>
 p {
-	text-align: justify;
+	text-align: left;
     padding-top: 0.0em;
     padding-bottom: 0.0em;
 }
