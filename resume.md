@@ -145,7 +145,11 @@ hr {
 	<hr />
 	
 	<h3>Languages</h3>
-	<p>English (advanced), German (basics), Polish (native)</p>
+	<p>
+		English - advanced <br />
+		German - basics <br />
+		Polish - native <br />
+	</p>
 
 	<hr />
 	
