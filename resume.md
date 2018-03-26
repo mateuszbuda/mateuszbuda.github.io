@@ -96,7 +96,7 @@ hr {
 		Department of Radiology<br>
 		Carl E. Ravin Advanced Imaging Laboratories
 	</p>
-	<p>Research Scholar in Computer Vision and Machine Learning</p>
+	<p>Associate in Research</p>
 	<p>January 2017 - ongoing</p>
 	<p>
 		<ul>
