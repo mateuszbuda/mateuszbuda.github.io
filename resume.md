@@ -3,6 +3,19 @@ title: "Resume"
 ---
 
 <style>
+p {
+	text-align: justify;
+    padding-top: 0.0em;
+    padding-bottom: 0.0em;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em auto;
+    padding: 0;
+}
 .img-circle {
     border-radius: 20%;
 }
@@ -47,7 +60,7 @@ title: "Resume"
 
 <div id="content">
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 
 	<h3>Education</h3>
 	<p><strong>KTH Royal Institute of Technology</strong>, Stockholm, Sweden</p>
@@ -60,7 +73,7 @@ title: "Resume"
 		Examiner: <a href="https://www.nada.kth.se/~ala/" target="_blank">Anders B. Lansner, Ph.D.</a>
 	</p>
 
-	<hr style="margin-left: 30%; margin-right: 30%; margin-bottom: 1em">
+	<hr style="border-top: 1px solid Gainsboro;">
 
 	<p><strong>Warsaw University of Technology</strong>, Poland</p>
 	<p>Bachelor of Engineering in Computer Science, 2011 - 2015</p>
@@ -75,7 +88,7 @@ title: "Resume"
 	</p>
 	</p>
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 
 	<h3>Research</h3>
 	<p>
@@ -94,8 +107,9 @@ title: "Resume"
 			<li>Applications of genetic algorithms to optimization of a scoring system for predicting malignancy of thyroid nodules based on imaging features (TI-RADS).</li>
 		</ul>
 	</p>
-	<!-- <p style="padding-top: 0.5em">Served as a reviewer for:</p> -->
-	<hr style="margin-left: 30%; margin-right: 30%; margin-bottom: 1em">
+	
+	<hr style="border-top: 1px solid Gainsboro;">
+	
 	<p>Served as a reviewer for:</p>
 	<p>
 		<ul>
@@ -105,7 +119,7 @@ title: "Resume"
 		</ul>
 	</p>
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 
 	<h3>Expeprience</h3>
 	<p><strong>inFullMobile</strong>, Warsaw, Poland</p>
@@ -113,14 +127,14 @@ title: "Resume"
 	<p>February 2015 - August 2016</p>
 	<p>WOW Keyboard - messaging iOS application for sharing media content.</p>
 
-	<hr style="margin-left: 30%; margin-right: 30%; margin-bottom: 1em">
+	<hr style="border-top: 1px solid Gainsboro;">
 
 	<p><strong>Senfino</strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>June 2014 - January 2015</p>
 	<p>4FUN APP - second screen application for TV station.</p>
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 
 	<h3>Skills</h3>
 	<p><strong>Python</strong> - Keras, Tensorflow, scikit-learn, Django</p>
@@ -128,12 +142,12 @@ title: "Resume"
 	<p><strong>iOS · Android</strong> - Swift, Objective-C, Java</p>
 	<p><strong>C · C++</strong></p>
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 	
 	<h3>Languages</h3>
 	<p>English (advanced), German (basics), Polish (native)</p>
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 	
 	<h3>Publications</h3>
 	<p>
@@ -146,5 +160,5 @@ title: "Resume"
 		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
 	</p>
 
-	<hr style="margin-bottom: 1.5em">
+	<hr />
 </div>
