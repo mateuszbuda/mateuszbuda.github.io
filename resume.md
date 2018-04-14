@@ -141,6 +141,7 @@ hr {
 	<p><strong>MatLab</strong> - Math, Statistics, and Optimization, Image Processing and Computer Vision</p>
 	<p><strong>iOS · Android</strong> - Swift, Objective-C, Java</p>
 	<p><strong>C · C++</strong> - CUDA, Caffe</p>
+	<p><strong>Git · Docker</strong></p>
 
 	<hr />
 	
