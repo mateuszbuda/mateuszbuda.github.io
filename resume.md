@@ -144,6 +144,14 @@ hr {
 	<p><strong>Git · Docker</strong></p>
 
 	<hr />
+
+	<h3>Certifications</h3>
+
+	<p>Google Cloud Platform Big Data and Machine Learning Fundamentals by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/NZSLNJFXG5TV" target="_blank">NZSLNJFXG5TV</a>)</p>
+	<p>Data Science Math Skills by Duke University - July 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/B29PQULU6RDY" target="_blank">B29PQULU6RDY</a>)</p>
+	<p>Pattern Discovery in Data Mining by University of Illinois at Urbana-Champaign - March 2015 (<a href="https://www.coursera.org/account/accomplishments/verify/YPUDJ6JQ6E" target="_blank">YPUDJ6JQ6E</a>)</p>
+
+	<hr />
 	
 	<h3>Languages</h3>
 	<p>
@@ -156,10 +164,10 @@ hr {
 	
 	<h3>Publications</h3>
 	<p>
-		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. "Deep learning in radiology: an overview of the concepts and a survey of the state of the art." <i><a href="https://arxiv.org/abs/1802.08717" target="_blank">arXiv preprint arXiv:1802.08717</a></i>, 2018.
+		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i><a href="https://www.sciencedirect.com/science/article/pii/S0893608018302107" target="_blank">Neural Networks</a></i>, 2018.
 	</p>
 	<p>
-		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i><a href="https://arxiv.org/abs/1710.05381" target="_blank">arXiv preprint arXiv:1710.05381</a></i>, 2017.
+		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. "Deep learning in radiology: an overview of the concepts and a survey of the state of the art." <i><a href="https://arxiv.org/abs/1802.08717" target="_blank">arXiv preprint arXiv:1802.08717</a></i>, 2018.
 	</p>
 	<p>
 		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
