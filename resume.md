@@ -101,10 +101,12 @@ hr {
 	<p>
 		<ul>
 			<li>A systematic study of the class imbalance problem in convolutional neural networks.</li>
-			<li>Segmentation of brain tumor in magnetic resonance images for fully automatic inference of its genomic subtypes.</li>
-			<li>Deep radiogenomics - classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
-			<li>Deep learning for detection and malignancy estimation of thyroid nodules in ultrasound images.</li>
-			<li>Applications of genetic algorithms to optimization of a scoring system for predicting malignancy of thyroid nodules based on imaging features (TI-RADS).</li>
+			<li>Brain segmentation in magnetic resonance images.</li>
+			<li>Classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
+			<li>Deep learning for detection and risk level stratification of thyroid nodules in ultrasound images with multi-task learning.</li>
+			<li>Applications of genetic algorithms to optimization of a scoring system for management of thyroid nodules based on ultrasound imaging features.</li>
+			<li>Learning segmentation of objects in ultrasound images using approximate ground truth.</li>
+			<li>Detection of breast cancer in digital tomosynthesis images.</li>
 		</ul>
 	</p>
 	
@@ -113,52 +115,41 @@ hr {
 	<p>Served as a reviewer for:</p>
 	<p>
 		<ul>
-			<li>
-				The Journal of Machine Learning Research
-			</li>
+			<li>The Journal of Machine Learning Research</li>
+			<li>Artificial Intelligence Review</li>
 		</ul>
 	</p>
 
 	<hr />
 
-	<h3>Expeprience</h3>
+	<h3>Experience</h3>
 	<p><strong>inFullMobile</strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>February 2015 - August 2016</p>
-	<p>WOW Keyboard - messaging iOS application for sharing media content.</p>
+	<p>
+	<ul>
+		<li>WOW Keyboard - messaging app for sharing media content.</li>
+	</ul>
+	</p>
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
 	<p><strong>Senfino</strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>June 2014 - January 2015</p>
-	<p>4FUN APP - second screen application for TV station.</p>
-
-	<hr />
-
-	<h3>Skills</h3>
-	<p><strong>Python</strong> - Keras, Tensorflow, scikit-learn, Django</p>
-	<p><strong>MatLab</strong> - Math, Statistics, and Optimization, Image Processing and Computer Vision</p>
-	<p><strong>iOS · Android</strong> - Swift, Objective-C, Java</p>
-	<p><strong>C · C++</strong> - CUDA, Caffe</p>
-	<p><strong>Git · Docker</strong></p>
+	<p>
+	<ul>
+		<li>4FUN APP - second screen app for a TV station.</li>
+	</ul>
+	</p>
 
 	<hr />
 
 	<h3>Certifications</h3>
-
+	<p>How Google does Machine Learning by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/6UW3H8MVHMCZ" target="_blank">6UW3H8MVHMCZ</a>)</p>
 	<p>Google Cloud Platform Big Data and Machine Learning Fundamentals by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/NZSLNJFXG5TV" target="_blank">NZSLNJFXG5TV</a>)</p>
 	<p>Data Science Math Skills by Duke University - July 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/B29PQULU6RDY" target="_blank">B29PQULU6RDY</a>)</p>
 	<p>Pattern Discovery in Data Mining by University of Illinois at Urbana-Champaign - March 2015 (<a href="https://www.coursera.org/account/accomplishments/verify/YPUDJ6JQ6E" target="_blank">YPUDJ6JQ6E</a>)</p>
-
-	<hr />
-	
-	<h3>Languages</h3>
-	<p>
-		English - advanced <br />
-		German - basics <br />
-		Polish - native <br />
-	</p>
 
 	<hr />
 	
