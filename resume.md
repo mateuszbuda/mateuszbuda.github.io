@@ -105,7 +105,7 @@ hr {
 			<li>Classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
 			<li>Deep learning for detection and risk level stratification of thyroid nodules in ultrasound images with multi-task learning.</li>
 			<li>Applications of genetic algorithms to optimization of a scoring system for management of thyroid nodules based on ultrasound imaging features.</li>
-			<li>Learning segmentation of objects in ultrasound images using approximate ground truth.</li>
+			<li>Training a segmentation model for objects in ultrasound images using approximate ground truth.</li>
 			<li>Detection of breast cancer in digital tomosynthesis images.</li>
 		</ul>
 	</p>
@@ -115,8 +115,9 @@ hr {
 	<p>Served as a reviewer for:</p>
 	<p>
 		<ul>
-			<li>The Journal of Machine Learning Research</li>
-			<li>Artificial Intelligence Review</li>
+			<li><a href="http://www.jmlr.org" target="_blank">The Journal of Machine Learning Research</a></li>
+			<li><a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a></li>
+			<li><a href="https://link.springer.com/journal/10462" target="_blank">Artificial Intelligence Review</a></li>
 		</ul>
 	</p>
 
