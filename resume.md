@@ -52,13 +52,16 @@ hr {
 	<img class="img-circle" src="/images/photo.jpg" width="128px" height="128px">
 	<p></p>
 	<h3>Mateusz Buda</h3>
-	<h4>Associate in Research</h4>
+	<h4>Research Associate</h4>
 	<p><span class="tag-text">Machine Learning</span></p>
 	<p><span class="tag-text">Computer Vision</span></p>
 	<p><span class="tag-text">Neural Networks</span></p>
 </div>
 
 <div id="content">
+
+	Data scientist with over 4 years of experience in software engineering.<br>
+	For the past 2 years, developing human-level machine learning systems for medical imaging.
 
 	<hr />
 
@@ -79,7 +82,7 @@ hr {
 	<p>Bachelor of Engineering in Computer Science, 2011 - 2015</p>
 	<p>
 		Thesis: <i>OCR system for text recognition in images of specified type.</i><br>
-		Image to text API with custom OCR component and mobile client.
+		Image to text API with custom OCR component and mobile application.
 	</p>
 	<p>
 		Supervisor: <a href="http://www.mini.pw.edu.pl/~lucknerm/en/" target="_blank">Marcin Luckner, Ph.D.</a>
@@ -105,8 +108,8 @@ hr {
 			<li>Classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
 			<li>Deep learning for detection and risk level stratification of thyroid nodules in ultrasound images with multi-task learning.</li>
 			<li>Applications of genetic algorithms to optimization of a scoring system for management of thyroid nodules based on ultrasound imaging features.</li>
-			<li>Training a segmentation model for objects in ultrasound images using approximate ground truth.</li>
-			<li>Detection of breast cancer in digital tomosynthesis images.</li>
+			<li>Segmentation of objects in ultrasound images using approximate ground truth.</li>
+			<li>Detection of cancer in 3D digital breast tomosynthesis images</li>
 		</ul>
 	</p>
 	
@@ -115,9 +118,9 @@ hr {
 	<p>Served as a reviewer for:</p>
 	<p>
 		<ul>
-			<li><a href="http://www.jmlr.org" target="_blank">The Journal of Machine Learning Research</a></li>
 			<li><a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a></li>
 			<li><a href="https://link.springer.com/journal/10462" target="_blank">Artificial Intelligence Review</a></li>
+			<li><a href="http://www.jmlr.org" target="_blank">The Journal of Machine Learning Research</a></li>
 		</ul>
 	</p>
 
@@ -159,7 +162,7 @@ hr {
 		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i><a href="https://www.sciencedirect.com/science/article/pii/S0893608018302107" target="_blank">Neural Networks</a></i>, 2018.
 	</p>
 	<p>
-		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. "Deep learning in radiology: an overview of the concepts and a survey of the state of the art." <i><a href="https://arxiv.org/abs/1802.08717" target="_blank">arXiv preprint arXiv:1802.08717</a></i>, 2018.
+		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. "Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI." <i><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26534" target="_blank">Journal of Magnetic Resonance Imaging</a></i>, 2018.
 	</p>
 	<p>
 		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
