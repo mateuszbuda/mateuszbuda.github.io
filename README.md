@@ -1,1 +1,1 @@
-<h1>Projects</h1>
+<img src="/images/word-cloud.png">

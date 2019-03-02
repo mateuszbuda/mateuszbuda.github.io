@@ -14,7 +14,7 @@ li {
 </style>
 
 
-### Introdution
+### Introduction
 
 Thresholding is a simple method that can improve accuracy of a classifier in the case when it was trained on an imbalanced dataset.
 It relies on <a href="https://en.wikipedia.org/wiki/Bayes%27_theorem" target="_blank">Bayes' Theorem</a> and the fact that neural networks estimate posterior distribution <a href="http://cognet.mit.edu/journal/10.1162/neco.1991.3.4.461" target="_blank">(Richard & Lippmann, 1991)</a>.
@@ -50,7 +50,7 @@ In this case, the predicted class would be:
 
 $$argmax(y) = 2$$
 
-Now, to apply thresholding method, we have to cumpute the vector of priors. In this case it will be:
+Now, to apply thresholding method, we have to compute the vector of priors. In this case it will be:
 
 $$p = [100/1000, 400/1000, 500/1000] = [0.1, 0.4, 0.5]$$
 
@@ -89,7 +89,7 @@ The training set looks like this:
 	<img src="/images/thresholding/trainset.png" alt="Training set" style="max-height: 250px; width: auto;" />
 </p>
 
-We will use it to train a simple naural network with 2 hidden units:
+We will use it to train a simple neural network with 2 hidden units:
 
 ```python
 nn = MLPClassifier(solver='lbfgs', hidden_layer_sizes=(2), activation='logistic', random_state=42)
@@ -124,7 +124,7 @@ def predict_thresholded(nn, X, p):
     return np.argmax(y_pred_th, axis=1)
 ```
 
-Now, we can use them and evalue the performance again:
+Now, we can use them and evaluate the performance again:
 
 ```python
 p = priors(y_train)
@@ -136,11 +136,11 @@ Accuracy = 84.2%
 
 We were able to improve the accuracy by over 9%.
 However, thresholding method only scales the outputs by multiplying them by a constant number.
-It must be noted that the disciminative power of a classifier (e.g. as measured using ROC) does not change in this case.
+It must be noted that the discriminative power of a classifier (e.g. as measured using ROC) does not change in this case.
 
 
 ### Links
 
+- Code: <a href="https://gist.github.com/mateuszbuda/cb122143afcc574b3cee636e1cc58150" target="_blank">GitHub gist</a>
 - Class imbalance: <a href="https://arxiv.org/abs/1710.05381" target="_blank">arXiv:1710.05381</a>
 - Extended report: <a href="http://www.diva-portal.org/smash/get/diva2:1165840/FULLTEXT01.pdf" target="_blank">diva2:1165840</a>
-
