@@ -1,5 +1,5 @@
 ---
-title: "Class Imbalance Problem in Convolutional Neural Networks"
+title: "Class imbalance problem in convolutional neural networks"
 description: "In this study, we systematically investigate the impact of class imbalance on classification performance of convolutional neural networks (CNNs) and compare perform an extensive comparison of several methods to address the issue.
 Based on results from our experiments we conclude that
 (i)&nbsp;the effect of class imbalance on classification performance is detrimental;

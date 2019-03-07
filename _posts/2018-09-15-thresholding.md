@@ -1,5 +1,5 @@
 ---
-title: "Thresholding Method for Imbalanced Classification"
+title: "Thresholding method for imbalanced classification"
 description: "Class imbalance refers to unequal number of training examples between classes in a training set.
 Neural networks are known to estimate Bayesian posterior distribution.
 The number of training examples for a class can be used to approximate its prior probability.
