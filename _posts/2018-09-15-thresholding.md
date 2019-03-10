@@ -3,8 +3,8 @@ title: "Thresholding method for imbalanced classification"
 description: "Class imbalance refers to unequal number of training examples between classes in a training set.
 Neural networks are known to estimate Bayesian posterior distribution.
 The number of training examples for a class can be used to approximate its prior probability.
-Therefore, model output can be adjusted to reflect uneven class priors and, in result, improve accuracy of a classifier.
-This post provides a simple example together with Python implementation of thresholding method."
+Therefore, model output can be adjusted to reflect uneven class priors and improve the accuracy of a classifier.
+This post provides a simple example together with a Python implementation of the thresholding method."
 ---
 
 <style>
@@ -16,9 +16,9 @@ li {
 
 ### Introduction
 
-Thresholding is a simple method that can improve accuracy of a classifier in the case when it was trained on an imbalanced dataset.
+Thresholding is a simple method that can improve the accuracy of a classifier in the case when it was trained on an imbalanced dataset.
 It relies on <a href="https://en.wikipedia.org/wiki/Bayes%27_theorem" target="_blank">Bayes' Theorem</a> and the fact that neural networks estimate posterior distribution <a href="http://cognet.mit.edu/journal/10.1162/neco.1991.3.4.461" target="_blank">(Richard & Lippmann, 1991)</a>.
-In practice it means that given a datapoint $x$, the output for a neuron representing class $i$ corresponds to
+In practice, it means that given a datapoint $x$, the output for a neuron representing class $i$ corresponds to
 
 $$y_i(x) = p(i|x) = \frac{p(i) \cdot p(x|i)}{p(x)}$$
 
@@ -26,9 +26,9 @@ where $p(i)$ is a prior probability for class $i$.
 
 In a standard case, equal priors are assumed for all classes.
 However, it is not always the case.
-E.g. in medical datasets some diseases are known to have prevalence of less than 1%.
+E.g. in medical datasets some diseases are known to have a prevalence of less than 1%.
 
-A class prior can be estimated based on the number of examples in a training set, unless we have a good reason to think that our training set is not reflective of the true class distribution. Otherwise, for class $i$ we have:
+A class prior can be estimated based on the number of examples in a training set unless we have a good reason to think that our training set is not reflective of the true class distribution. Otherwise, for class $i$ we have:
 
 $$p(i) = \frac{|i|}{\sum_{k}{|k|}}$$
 
@@ -50,7 +50,7 @@ In this case, the predicted class would be:
 
 $$argmax(y) = 2$$
 
-Now, to apply thresholding method, we have to compute the vector of priors. In this case it will be:
+Now, to apply thresholding method, we have to compute the vector of priors. In this case, it will be:
 
 $$p = [100/1000, 400/1000, 500/1000] = [0.1, 0.4, 0.5]$$
 
@@ -66,7 +66,7 @@ $$argmax(y') = 0$$
 
 For impatient readers, the full notebook is available as a <a href="https://gist.github.com/mateuszbuda/cb122143afcc574b3cee636e1cc58150" target="_blank">GitHub gist</a>.
 
-First, let us build a simple dataset based on two gaussian distributions.
+First, let us build a simple dataset based on two Gaussian distributions.
 
 ```python
 # 20 positive and 180 negative training examples
@@ -135,7 +135,7 @@ y_pred_test = predict_thresholded(nn, X_test, p)
 Accuracy = 84.2%
 
 We were able to improve the accuracy by over 9%.
-However, thresholding method only scales the outputs by multiplying them by a constant number.
+However, the thresholding method only scales the outputs by multiplying them by a constant number.
 It must be noted that the discriminative power of a classifier (e.g. as measured using ROC) does not change in this case.
 
 

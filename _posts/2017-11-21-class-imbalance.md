@@ -15,7 +15,7 @@ li {
 
 
 In this study, we systematically investigate the impact of class imbalance on classification performance of convolutional neural networks and compare frequently used methods to address the issue.
-Class imbalance refers to significantly different number of examples among classes in a training set.
+Class imbalance refers to a significantly different number of examples among classes in a training set.
 It is a common problem that has been comprehensively studied in classical machine learning, yet very limited systematic research is available in the context of deep learning.
 
 ### Experiments
@@ -123,7 +123,7 @@ Our main evaluation metric is area under the receiver operating characteristic c
 Based on results from our experiments we conclude that
 - the effect of class imbalance on classification performance is detrimental and increases with the extent of imbalance and the scale of a task;
 - the method of addressing class imbalance that emerged as dominant in almost all analyzed scenarios was oversampling;
-- oversampling should be applied to the level that totally eliminates the imbalance, whereas undersampling can perform better when the imbalance is only removed to some extent;
+- oversampling should be applied to the level that eliminates the imbalance, whereas undersampling can perform better when the imbalance is only removed to some extent;
 - thresholding should be applied to compensate for prior class probabilities when overall number of properly classified cases is of interest;
 - as opposed to some classical machine learning models, oversampling does not necessarily cause overfitting of convolutional neural networks.
 
