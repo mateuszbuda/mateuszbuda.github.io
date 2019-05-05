@@ -159,10 +159,13 @@ hr {
 	
 	<h3>Publications</h3>
 	<p>
-		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." <i><a href="https://www.sciencedirect.com/science/article/pii/S0893608018302107" target="_blank">Neural Networks</a></i>, 2018.
+		<strong>Mateusz Buda</strong>, Ashirbani Saha, and Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.compbiomed.2019.05.002" target="_blank">Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.</a></i> Computers in Biology and Medicine, 2019.
 	</p>
 	<p>
-		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. "Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI." <i><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26534" target="_blank">Journal of Magnetic Resonance Imaging</a></i>, 2018.
+		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. <i><a href="https://doi.org/10.1002/jmri.26534" target="_blank">Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI.</a></i> Journal of Magnetic Resonance Imaging, 2018.
+	</p>
+	<p>
+		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.neunet.2018.07.011" target="_blank">A systematic study of the class imbalance problem in convolutional neural networks.</a></i> Neural Networks, 2018.
 	</p>
 	<p>
 		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
