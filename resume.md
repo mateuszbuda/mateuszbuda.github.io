@@ -66,7 +66,7 @@ hr {
 	<hr />
 
 	<h3>Education</h3>
-	<p><strong>KTH Royal Institute of Technology</strong>, Stockholm, Sweden</p>
+	<p><strong><a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a></strong>, Stockholm, Sweden</p>
 	<p>Master of Science in Machine Learning, 2015 - 2017</p>
 	<p>Thesis: <i>A systematic study of the class imbalance problem in convolutional neural networks.</i></p>
 	<p>
@@ -78,7 +78,7 @@ hr {
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
-	<p><strong>Warsaw University of Technology</strong>, Poland</p>
+	<p><strong><a href="https://www.pw.edu.pl/engpw" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
 	<p>Bachelor of Engineering in Computer Science, 2011 - 2015</p>
 	<p>
 		Thesis: <i>OCR system for text recognition in images of specified type.</i><br>
@@ -95,7 +95,7 @@ hr {
 
 	<h3>Research</h3>
 	<p>
-		<strong>Duke University</strong>, Durham, NC, USA<br>
+		<strong><a href="https://duke.edu" target="_blank">Duke University</a></strong>, Durham, NC, USA<br>
 		Department of Radiology<br>
 		Carl E. Ravin Advanced Imaging Laboratories
 	</p>
@@ -127,7 +127,7 @@ hr {
 	<hr />
 
 	<h3>Experience</h3>
-	<p><strong>inFullMobile</strong>, Warsaw, Poland</p>
+	<p><strong><a href="https://infullmobile.com" target="_blank">inFullMobile</a></strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>February 2015 - August 2016</p>
 	<p>
@@ -138,7 +138,7 @@ hr {
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
-	<p><strong>Senfino</strong>, Warsaw, Poland</p>
+	<p><strong><a href="https://www.senfino.com" target="_blank">Senfino</a></strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>June 2014 - January 2015</p>
 	<p>
