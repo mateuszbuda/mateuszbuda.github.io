@@ -150,6 +150,7 @@ hr {
 	<hr />
 
 	<h3>Certifications</h3>
+	<p>Getting Started with Google Kubernetes Engine by Google - May 2019 (<a href="https://www.coursera.org/account/accomplishments/verify/BQY6FKM5BURR" target="_blank">BQY6FKM5BURR</a>)</p>
 	<p>How Google does Machine Learning by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/6UW3H8MVHMCZ" target="_blank">6UW3H8MVHMCZ</a>)</p>
 	<p>Google Cloud Platform Big Data and Machine Learning Fundamentals by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/NZSLNJFXG5TV" target="_blank">NZSLNJFXG5TV</a>)</p>
 	<p>Data Science Math Skills by Duke University - July 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/B29PQULU6RDY" target="_blank">B29PQULU6RDY</a>)</p>
