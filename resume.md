@@ -104,12 +104,12 @@ hr {
 	<p>
 		<ul>
 			<li>A systematic study of the class imbalance problem in convolutional neural networks.</li>
-			<li>Brain segmentation in magnetic resonance images.</li>
+			<li>Brain segmentation in magnetic resonance images for prediction of tumor genomics.</li>
 			<li>Classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
 			<li>Deep learning for detection and risk level stratification of thyroid nodules in ultrasound images with multi-task learning.</li>
-			<li>Applications of genetic algorithms to optimization of a scoring system for management of thyroid nodules based on ultrasound imaging features.</li>
+			<li>Applications of genetic algorithms to optimization of a system for risk stratification of thyroid nodules based on ultrasound imaging features.</li>
 			<li>Segmentation of objects in ultrasound images using approximate ground truth.</li>
-			<li>Detection of cancer in 3D digital breast tomosynthesis images</li>
+			<li>Detection of cancer in 3D digital breast tomosynthesis volumes using eye tracking data.</li>
 		</ul>
 	</p>
 	
@@ -160,13 +160,16 @@ hr {
 	
 	<h3>Publications</h3>
 	<p>
-		<strong>Mateusz Buda</strong>, Ashirbani Saha, and Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.compbiomed.2019.05.002" target="_blank">Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.</a></i> Computers in Biology and Medicine, 2019.
+		Benjamin Wildman-Tobriner, <strong>Mateusz Buda</strong>, Jenny K Hoang, William D Middleton, David Thayer, Ryan G Short, Franklin N Tessler, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019182128" target="_blank">Using Artificial Intelligence to Revise ACR TI-RADS Risk Stratification of Thyroid Nodules: Diagnostic Accuracy and Utility.</a></i> Radiology, 2019.
 	</p>
 	<p>
-		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, and Mustafa R. Bashir. <i><a href="https://doi.org/10.1002/jmri.26534" target="_blank">Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI.</a></i> Journal of Magnetic Resonance Imaging, 2018.
+		<strong>Mateusz Buda</strong>, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.compbiomed.2019.05.002" target="_blank">Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.</a></i> Computers in Biology and Medicine, 2019.
 	</p>
 	<p>
-		<strong>Mateusz Buda</strong>, Atsuto Maki, and Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.neunet.2018.07.011" target="_blank">A systematic study of the class imbalance problem in convolutional neural networks.</a></i> Neural Networks, 2018.
+		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, Mustafa R. Bashir. <i><a href="https://doi.org/10.1002/jmri.26534" target="_blank">Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI.</a></i> Journal of Magnetic Resonance Imaging, 2018.
+	</p>
+	<p>
+		<strong>Mateusz Buda</strong>, Atsuto Maki, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.neunet.2018.07.011" target="_blank">A systematic study of the class imbalance problem in convolutional neural networks.</a></i> Neural Networks, 2018.
 	</p>
 	<p>
 		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
