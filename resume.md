@@ -60,8 +60,8 @@ hr {
 
 <div id="content">
 
-	Data scientist with over 4 years of experience in software engineering.<br>
-	For the past 2 years, developing human-level machine learning systems for medical imaging.
+	Data scientist with 5 years of experience in software engineering.<br>
+	For over 2 years, developing human-level machine learning systems.
 
 	<hr />
 
@@ -106,10 +106,10 @@ hr {
 			<li>A systematic study of the class imbalance problem in convolutional neural networks.</li>
 			<li>Brain segmentation in magnetic resonance images for prediction of tumor genomics.</li>
 			<li>Classification of brain tumor to molecular subtypes based on magnetic resonance images using transfer learning.</li>
-			<li>Deep learning for detection and risk level stratification of thyroid nodules in ultrasound images with multi-task learning.</li>
+			<li>Deep learning for detection, segmentation, and risk level stratification of thyroid nodules in ultrasound images with multi-task learning.</li>
 			<li>Applications of genetic algorithms to optimization of a system for risk stratification of thyroid nodules based on ultrasound imaging features.</li>
-			<li>Segmentation of objects in ultrasound images using approximate ground truth.</li>
 			<li>Detection of cancer in 3D digital breast tomosynthesis volumes using eye tracking data.</li>
+			<li>Recruiting and supervising undergraduate students and preparing teaching materials.</li>
 		</ul>
 	</p>
 	
