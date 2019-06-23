@@ -121,6 +121,7 @@ hr {
 			<li><a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a></li>
 			<li><a href="https://link.springer.com/journal/10462" target="_blank">Artificial Intelligence Review</a></li>
 			<li><a href="http://www.jmlr.org" target="_blank">The Journal of Machine Learning Research</a></li>
+			<li><a href="https://pubs.rsna.org/journal/ai" target="_blank">Radiology: Artificial Intelligence</a></li>
 		</ul>
 	</p>
 
