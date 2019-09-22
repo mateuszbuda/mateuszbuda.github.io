@@ -52,7 +52,6 @@ hr {
 	<img class="img-circle" src="/images/photo.jpg" width="128px" height="128px">
 	<p></p>
 	<h3>Mateusz Buda</h3>
-	<h4>Research Associate</h4>
 	<p><span class="tag-text">Machine Learning</span></p>
 	<p><span class="tag-text">Computer Vision</span></p>
 	<p><span class="tag-text">Neural Networks</span></p>
@@ -100,7 +99,7 @@ hr {
 		Carl E. Ravin Advanced Imaging Laboratories
 	</p>
 	<p>Associate in Research</p>
-	<p>January 2017 - ongoing</p>
+	<p>January 2017 - July 2019</p>
 	<p>
 		<ul>
 			<li>A systematic study of the class imbalance problem in convolutional neural networks.</li>
@@ -120,6 +119,7 @@ hr {
 		<ul>
 			<li><a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a></li>
 			<li><a href="https://link.springer.com/journal/10462" target="_blank">Artificial Intelligence Review</a></li>
+			<li><a href="https://link.springer.com/journal/10618" target="_blank">Data Mining and Knowledge Discovery</a></li>
 			<li><a href="http://www.jmlr.org" target="_blank">The Journal of Machine Learning Research</a></li>
 			<li><a href="https://pubs.rsna.org/journal/ai" target="_blank">Radiology: Artificial Intelligence</a></li>
 		</ul>
@@ -128,6 +128,17 @@ hr {
 	<hr />
 
 	<h3>Experience</h3>
+	<p><strong><a href="https://www.iqvia.com" target="_blank">IQVIA</a></strong>, Warsaw, Poland</p>
+	<p>Senior Machine Learning Engineer</p>
+	<p>August 2019 - ongoing</p>
+	<p>
+	<ul>
+		<li>Machine learning product development.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
 	<p><strong><a href="https://infullmobile.com" target="_blank">inFullMobile</a></strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>February 2015 - August 2016</p>
@@ -160,6 +171,9 @@ hr {
 	<hr />
 	
 	<h3>Publications</h3>
+	<p>
+		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Jenny K Hoang, David Thayer, Franklin N Tessler, William D Middleton, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019181343" target="_blank">Management of Thyroid Nodules Seen on US Images: Deep Learning May Match Performance of Radiologists.</a></i> Radiology, 2019.
+	</p>
 	<p>
 		Benjamin Wildman-Tobriner, <strong>Mateusz Buda</strong>, Jenny K Hoang, William D Middleton, David Thayer, Ryan G Short, Franklin N Tessler, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019182128" target="_blank">Using Artificial Intelligence to Revise ACR TI-RADS Risk Stratification of Thyroid Nodules: Diagnostic Accuracy and Utility.</a></i> Radiology, 2019.
 	</p>
