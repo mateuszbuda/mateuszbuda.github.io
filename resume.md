@@ -59,8 +59,8 @@ hr {
 
 <div id="content">
 
-	Data scientist with 5 years of experience in software engineering.<br>
-	For over 2 years, developing human-level machine learning systems.
+	Data scientist with over 5 years of experience in software engineering.<br>
+	For the past 3 years, developing human-level machine learning systems.
 
 	<hr />
 
@@ -125,6 +125,16 @@ hr {
 		</ul>
 	</p>
 
+	<hr style="border-top: 1px solid Gainsboro;">
+
+	<p>Talks at conferences and seminars:</p>
+	<p>
+		<ul>
+			<li>Management of thyroid nodules seen on US images: deep learning may match performance of radiologists at <a href="http://aidmed.pl" target="_blank">seminarium naukowe "Informatyka w medycynie i biologii" na Wydziale Matematyki i Nauk Informacyjncyh Politechniki Warszawskiej</a></li>
+			<li>Radiologist-level deep learning for management of thyroid nodules based on US images at <a href="https://conference.mlinpl.org/" target="_blank">ML in PL Conference 2019</a></li>
+		</ul>
+	</p>
+
 	<hr />
 
 	<h3>Experience</h3>
@@ -171,6 +181,9 @@ hr {
 	<hr />
 	
 	<h3>Publications</h3>
+	<p>
+		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Kerry Castor, Jenny K Hoang, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.ultrasmedbio.2019.10.003" target="_blank">Deep Learning-Based Segmentation of Nodules in Thyroid Ultrasound: Improving Performance by Utilizing Markers Present in the Images.</a></i> Ultrasound in Medicine & Biology, 2019.
+	</p>
 	<p>
 		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Jenny K Hoang, David Thayer, Franklin N Tessler, William D Middleton, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019181343" target="_blank">Management of Thyroid Nodules Seen on US Images: Deep Learning May Match Performance of Radiologists.</a></i> Radiology, 2019.
 	</p>
