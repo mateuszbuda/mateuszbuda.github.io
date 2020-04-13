@@ -59,8 +59,9 @@ hr {
 
 <div id="content">
 
-	Data scientist with over 5 years of experience in software engineering.<br>
-	For the past 3 years, developing human-level machine learning systems.
+	Data scientist with background in computer science.<br />
+	Developing machine learning systems since 2017.<br />
+	Focusing on computer vision and customer data.
 
 	<hr />
 
@@ -143,7 +144,7 @@ hr {
 	<p>August 2019 - ongoing</p>
 	<p>
 	<ul>
-		<li>Machine learning product development.</li>
+		<li>Artificial Intelligence for Life Science Organizations.</li>
 	</ul>
 	</p>
 
@@ -182,7 +183,10 @@ hr {
 	
 	<h3>Publications</h3>
 	<p>
-		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Kerry Castor, Jenny K Hoang, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.ultrasmedbio.2019.10.003" target="_blank">Deep Learning-Based Segmentation of Nodules in Thyroid Ultrasound: Improving Performance by Utilizing Markers Present in the Images.</a></i> Ultrasound in Medicine & Biology, 2019.
+		<strong>Mateusz Buda</strong>, Ehab A AlBadawy, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/ryai.2019180050" target="_blank">Deep Radiogenomics of Lower-Grade Gliomas: Convolutional Neural Networks Predict Tumor Genomic Subtypes Using MR Images.</a></i> Radiology: Artificial Intelligence, 2020.
+	</p>
+	<p>
+		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Kerry Castor, Jenny K Hoang, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.ultrasmedbio.2019.10.003" target="_blank">Deep Learning-Based Segmentation of Nodules in Thyroid Ultrasound: Improving Performance by Utilizing Markers Present in the Images.</a></i> Ultrasound in Medicine & Biology, 2020.
 	</p>
 	<p>
 		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Jenny K Hoang, David Thayer, Franklin N Tessler, William D Middleton, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019181343" target="_blank">Management of Thyroid Nodules Seen on US Images: Deep Learning May Match Performance of Radiologists.</a></i> Radiology, 2019.
@@ -191,7 +195,7 @@ hr {
 		Benjamin Wildman-Tobriner, <strong>Mateusz Buda</strong>, Jenny K Hoang, William D Middleton, David Thayer, Ryan G Short, Franklin N Tessler, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019182128" target="_blank">Using Artificial Intelligence to Revise ACR TI-RADS Risk Stratification of Thyroid Nodules: Diagnostic Accuracy and Utility.</a></i> Radiology, 2019.
 	</p>
 	<p>
-		<strong>Mateusz Buda</strong>, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.compbiomed.2019.05.002" target="_blank">Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.</a></i> Computers in Biology and Medicine, 2019.
+		<strong>Mateusz Buda</strong>, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.compbiomed.2019.05.002" target="_blank">Association of Genomic Subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.</a></i> Computers in Biology and Medicine, 2019.
 	</p>
 	<p>
 		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, Mustafa R. Bashir. <i><a href="https://doi.org/10.1002/jmri.26534" target="_blank">Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI.</a></i> Journal of Magnetic Resonance Imaging, 2018.
