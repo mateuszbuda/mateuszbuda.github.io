@@ -53,15 +53,16 @@ hr {
 	<p></p>
 	<h3>Mateusz Buda</h3>
 	<p><span class="tag-text">Machine Learning</span></p>
-	<p><span class="tag-text">Computer Vision</span></p>
 	<p><span class="tag-text">Neural Networks</span></p>
+	<p><span class="tag-text">Computer Vision</span></p>
+	<p><span class="tag-text">Predictive Modelling</span></p>
+	<p><span class="tag-text">Time Series Analysis</span></p>
+	<p><span class="tag-text">Optimization</span></p>
 </div>
 
 <div id="content">
 
-	Data scientist with background in computer science.<br />
-	Developing machine learning systems since 2017.<br />
-	Focusing on computer vision and customer data.
+	Machine learning research engineer developing AI software since 2017<br />
 
 	<hr />
 
@@ -173,6 +174,7 @@ hr {
 	<hr />
 
 	<h3>Certifications</h3>
+	<p>End-to-End Machine Learning with TensorFlow on GCP by Google - August 2020 (<a href="https://www.coursera.org/account/accomplishments/certificate/6VGX9VZVWDLY" target="_blank">6VGX9VZVWDLY</a>)</p>
 	<p>Getting Started with Google Kubernetes Engine by Google - May 2019 (<a href="https://www.coursera.org/account/accomplishments/verify/BQY6FKM5BURR" target="_blank">BQY6FKM5BURR</a>)</p>
 	<p>How Google does Machine Learning by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/6UW3H8MVHMCZ" target="_blank">6UW3H8MVHMCZ</a>)</p>
 	<p>Google Cloud Platform Big Data and Machine Learning Fundamentals by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/NZSLNJFXG5TV" target="_blank">NZSLNJFXG5TV</a>)</p>
@@ -182,6 +184,18 @@ hr {
 	<hr />
 	
 	<h3>Publications</h3>
+	<p>
+		<strong>Mateusz Buda</strong>, Ashirbani Saha, Ruth Walsh, Sujata Ghate, Nianyi Li, Albert Święcicki, Joseph Y. Lo, Maciej A. Mazurowski. <i><a href="https://arxiv.org/abs/2011.07995" target="_blank">Detection of masses and architectural distortions in digital breast tomosynthesis: a publicly available dataset of 5,060 patients and a deep learning model.</a></i> arXiv preprint arXiv:2011.07995.
+	</p>
+	<p>
+		Albert Święcicki, <strong>Mateusz Buda</strong>, Ashirbani Saha, Nianyi Li, Sujata V Ghate, Ruth Walsh, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551379" target="_blank">Generative adversarial network-based image completion to identify abnormal locations in digital breast tomosynthesis images.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
+	</p>
+	<p>
+		Albert Święcicki, Nicholas Said, Jonathan O'Donnell, <strong>Mateusz Buda</strong>, Nianyi Li, William A Jiranek, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551377" target="_blank">Automatic estimation of knee joint space narrowing by deep learning segmentation algorithms.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
+	</p>
+	<p>
+		Gourav Modanwal, Adithya Vellal, <strong>Mateusz Buda</strong>, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551301" target="_blank">MRI image harmonization using cycle-consistent generative adversarial network.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
+	</p>
 	<p>
 		<strong>Mateusz Buda</strong>, Ehab A AlBadawy, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/ryai.2019180050" target="_blank">Deep Radiogenomics of Lower-Grade Gliomas: Convolutional Neural Networks Predict Tumor Genomic Subtypes Using MR Images.</a></i> Radiology: Artificial Intelligence, 2020.
 	</p>
