@@ -62,7 +62,7 @@ hr {
 
 <div id="content">
 
-	Machine learning research engineer developing AI software since 2017<br />
+	Machine learning research engineer developing AI products since 2017<br />
 
 	<hr />
 
@@ -133,8 +133,8 @@ hr {
 	<p>Talks at conferences and seminars:</p>
 	<p>
 		<ul>
-			<li>Management of thyroid nodules seen on US images: deep learning may match performance of radiologists at <a href="http://aidmed.pl" target="_blank">seminarium naukowe "Informatyka w medycynie i biologii" na Wydziale Matematyki i Nauk Informacyjncyh Politechniki Warszawskiej</a></li>
-			<li>Radiologist-level deep learning for management of thyroid nodules based on US images at <a href="https://conference.mlinpl.org/" target="_blank">ML in PL Conference 2019</a></li>
+			<li>Management of thyroid nodules seen on US images: deep learning may match performance of radiologists at <a href="http://aidmed.pl" target="_blank">seminarium naukowe "Informatyka w medycynie i biologii"</a> na <a href="https://ww2.mini.pw.edu.pl" target="_blank">Wydziale Matematyki i Nauk Informacyjncyh</a> <a href="https://www.pw.edu.pl" target="_blank">Politechniki Warszawskiej</a></li>
+			<li>Radiologist-level deep learning for management of thyroid nodules based on US images at <a href="https://conference2019.mlinpl.org" target="_blank">ML in PL Conference 2019</a> (<a href="https://youtu.be/VMZnv5vWhUM" target="_blank">https://youtu.be/VMZnv5vWhUM</a>)</li>
 		</ul>
 	</p>
 
