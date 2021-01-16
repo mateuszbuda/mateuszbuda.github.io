@@ -71,10 +71,10 @@ hr {
 	<p>Master of Science in Machine Learning, 2015 - 2017</p>
 	<p>Thesis: <i>A systematic study of the class imbalance problem in convolutional neural networks.</i></p>
 	<p>
-		Supervisors: <a href="http://www.csc.kth.se/~atsuto/" target="_blank">Atsuto Maki, Ph.D.</a>, <a href="http://deckard.duhs.duke.edu/~mazurowski/index.html" target="_blank">Maciej A. Mazurowski, Ph.D.</a>
+		Supervisors: <a href="http://www.csc.kth.se/~atsuto/" target="_blank">Atsuto Maki, Ph.D.</a>, <a href="https://sites.duke.edu/mazurowski/" target="_blank">Maciej A. Mazurowski, Ph.D.</a>
 	</p>
 	<p>
-		Examiner: <a href="https://www.nada.kth.se/~ala/" target="_blank">Anders B. Lansner, Ph.D.</a>
+		Examiner: <a href="https://www.kth.se/profile/ala" target="_blank">Anders B. Lansner, Ph.D.</a>
 	</p>
 
 	<hr style="border-top: 1px solid Gainsboro;">
@@ -86,7 +86,7 @@ hr {
 		Image to text API with custom OCR component and mobile application.
 	</p>
 	<p>
-		Supervisor: <a href="http://www.mini.pw.edu.pl/~lucknerm/en/" target="_blank">Marcin Luckner, Ph.D.</a>
+		Supervisor: <a href="https://pages.mini.pw.edu.pl/~lucknerm/en/" target="_blank">Marcin Luckner, Ph.D.</a>
 		<p>
 		Examiner: <a href="https://www.mini.pw.edu.pl/~homenda/index2.php" target="_blank">Władysław Homenda, Ph.D.</a>
 	</p>
@@ -133,8 +133,15 @@ hr {
 	<p>Talks at conferences and seminars:</p>
 	<p>
 		<ul>
-			<li>Management of thyroid nodules seen on US images: deep learning may match performance of radiologists at <a href="http://aidmed.pl" target="_blank">seminarium naukowe "Informatyka w medycynie i biologii"</a> na <a href="https://ww2.mini.pw.edu.pl" target="_blank">Wydziale Matematyki i Nauk Informacyjncyh</a> <a href="https://www.pw.edu.pl" target="_blank">Politechniki Warszawskiej</a></li>
-			<li>Radiologist-level deep learning for management of thyroid nodules based on US images at <a href="https://conference2019.mlinpl.org" target="_blank">ML in PL Conference 2019</a> (<a href="https://youtu.be/VMZnv5vWhUM" target="_blank">https://youtu.be/VMZnv5vWhUM</a>)</li>
+			<li>
+				Management of thyroid nodules seen on US images: deep learning may match performance of radiologists at <a href="http://aidmed.pl" target="_blank">seminarium naukowe "Informatyka w medycynie i biologii"</a> na <a href="https://ww2.mini.pw.edu.pl" target="_blank">Wydziale Matematyki i Nauk Informacyjncyh</a> <a href="https://www.pw.edu.pl" target="_blank">Politechniki Warszawskiej</a>
+			</li>
+			<li>
+				Radiologist-level deep learning for management of thyroid nodules based on US images at <a href="https://conference2019.mlinpl.org" target="_blank">ML in PL Conference 2019</a>
+				<p style="text-align: center">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/VMZnv5vWhUM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</li>
 		</ul>
 	</p>
 
@@ -169,6 +176,18 @@ hr {
 	<p>
 	<ul>
 		<li>4FUN APP - second screen app for a TV station.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
+	<p><strong><a href="http://www.lacan.com.pl" target="_blank">Lacan Technologies</a></strong>, Warsaw, Poland</p>
+	<p>Junior Network Administrator</p>
+	<p>October 2011 - January 2012</p>
+	<p>
+	<ul>
+		<li>Network configuration and management.</li>
+		<li>Internal and external helpdesk.</li>
 	</ul>
 	</p>
 
