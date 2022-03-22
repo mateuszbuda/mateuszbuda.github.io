@@ -67,6 +67,15 @@ hr {
 	<hr />
 
 	<h3>Education</h3>
+	<p><strong><a href="https://www.pw.edu.pl/engpw" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
+	<p>PhD Candidate, 2021</p>
+	<p>Thesis: <i>Refinement of machine learning methods supporting diagnostic imaging in selected applications.</i></p>
+	<p>
+		Supervisors: <a href="https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_przelaskowski_artur/" target="_blank">Artur Przelaskowski, Ph.D.</a>, <a href="https://sites.duke.edu/mazurowski/" target="_blank">Maciej A. Mazurowski, Ph.D.</a>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
 	<p><strong><a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a></strong>, Stockholm, Sweden</p>
 	<p>Master of Science in Machine Learning, 2015 - 2017</p>
 	<p>Thesis: <i>A systematic study of the class imbalance problem in convolutional neural networks.</i></p>
@@ -148,6 +157,17 @@ hr {
 	<hr />
 
 	<h3>Experience</h3>
+	<p><strong><a href="https://skysnap.pl" target="_blank">SkySnap</a></strong>, Warsaw, Poland</p>
+	<p>Senior Machine Learning Engineer</p>
+	<p>May 2021 - ongoing</p>
+	<p>
+	<ul>
+		<li>Machine Learning for processing of geospatial data.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
 	<p><strong><a href="https://www.iqvia.com" target="_blank">IQVIA</a></strong>, Warsaw, Poland</p>
 	<p>Senior Machine Learning Engineer</p>
 	<p>August 2019 - ongoing</p>
@@ -205,7 +225,10 @@ hr {
 	
 	<h3>Publications</h3>
 	<p>
-		<strong>Mateusz Buda</strong>, Ashirbani Saha, Ruth Walsh, Sujata Ghate, Nianyi Li, Albert Święcicki, Joseph Y. Lo, Maciej A. Mazurowski. <i><a href="https://arxiv.org/abs/2011.07995" target="_blank">Detection of masses and architectural distortions in digital breast tomosynthesis: a publicly available dataset of 5,060 patients and a deep learning model.</a></i> arXiv preprint arXiv:2011.07995.
+		<strong>Mateusz Buda</strong>, Ashirbani Saha, Ruth Walsh, Sujata Ghate, Nianyi Li, Albert Święcicki, Joseph Y. Lo, Maciej A. Mazurowski. <i><a href="https://doi.org/10.1001/jamanetworkopen.2021.19100" target="_blank">A Data Set and Deep Learning Algorithm for the Detection of Masses and Architectural Distortions in Digital Breast Tomosynthesis Images.</a></i> JAMA Network Open, 2021.
+	</p>
+	<p>
+		Albert Święcicki, Nicholas Konz, <strong>Mateusz Buda</strong>, Maciej A. Mazurowski. <i><a href="https://doi.org/10.1038/s41598-021-89626-1" target="_blank">A generative adversarial network-based abnormality detection using only normal images for model training with application to digital breast tomosynthesis.</a></i> Scientific Reports, 2021.
 	</p>
 	<p>
 		Albert Święcicki, <strong>Mateusz Buda</strong>, Ashirbani Saha, Nianyi Li, Sujata V Ghate, Ruth Walsh, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551379" target="_blank">Generative adversarial network-based image completion to identify abnormal locations in digital breast tomosynthesis images.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
