@@ -134,6 +134,7 @@ hr {
 			<li><a href="https://link.springer.com/journal/10618" target="_blank">Data Mining and Knowledge Discovery</a></li>
 			<li><a href="http://www.jmlr.org" target="_blank">The Journal of Machine Learning Research</a></li>
 			<li><a href="https://pubs.rsna.org/journal/ai" target="_blank">Radiology: Artificial Intelligence</a></li>
+			<li><a href="https://eccv2022.ecva.net" target="_blank">European Conference on Computer Vision</a></li>
 		</ul>
 	</p>
 
