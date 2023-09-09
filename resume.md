@@ -58,6 +58,7 @@ hr {
 	<p><span class="tag-text">Predictive Modelling</span></p>
 	<p><span class="tag-text">Time Series Analysis</span></p>
 	<p><span class="tag-text">Optimization</span></p>
+	<p><span class="tag-text">Data Extraction</span></p>
 </div>
 
 <div id="content">
@@ -69,7 +70,7 @@ hr {
 	<h3>Education</h3>
 	<p><strong><a href="https://www.pw.edu.pl/engpw" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
 	<p>PhD Candidate, 2021</p>
-	<p>Thesis: <i>Refinement of machine learning methods supporting diagnostic imaging in selected applications.</i></p>
+	<p>Thesis: <i>Computer-aided diagnosis by leveraging semantic domain knowledge in the development of machine learning models.</i></p>
 	<p>
 		Supervisors: <a href="https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_przelaskowski_artur/" target="_blank">Artur Przelaskowski, Ph.D.</a>, <a href="https://sites.duke.edu/mazurowski/" target="_blank">Maciej A. Mazurowski, Ph.D.</a>
 	</p>
@@ -158,23 +159,46 @@ hr {
 	<hr />
 
 	<h3>Experience</h3>
-	<p><strong><a href="https://skysnap.pl" target="_blank">SkySnap</a></strong>, Warsaw, Poland</p>
-	<p>Senior Machine Learning Engineer</p>
-	<p>May 2021 - ongoing</p>
-	<p>
-	<ul>
-		<li>Machine Learning for processing of geospatial data.</li>
-	</ul>
-	</p>
-
-	<hr style="border-top: 1px solid Gainsboro;">
-
 	<p><strong><a href="https://www.iqvia.com" target="_blank">IQVIA</a></strong>, Warsaw, Poland</p>
 	<p>Senior Machine Learning Engineer</p>
 	<p>August 2019 - ongoing</p>
 	<p>
 	<ul>
 		<li>Artificial Intelligence for Life Science Organizations.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
+	<p><strong><a href="https://scrapingfish.com" target="_blank">Scraping Fish</a></strong>, Warsaw, Poland</p>
+	<p>Co-founder</p>
+	<p>April 2022 - ongoing</p>
+	<p>
+	<ul>
+		<li>Web scraping API and data extraction solutions.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
+	<p><strong><a href="https://narf.ai" target="_blank">Narf AI</a></strong>, Warsaw, Poland</p>
+	<p>Co-founder</p>
+	<p>November 2022 - ongoing</p>
+	<p>
+	<ul>
+		<li>Data science consulting and AI product development.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
+	<p><strong><a href="https://skysnap.pl" target="_blank">SkySnap</a></strong>, Warsaw, Poland</p>
+	<p>Senior Machine Learning Engineer</p>
+	<p>May 2021 - November 2022</p>
+	<p>
+	<ul>
+		<li>Machine Learning for processing of geospatial data.</li>
+		<li>Classification and segmentation of 3D point cloud data.</li>
 	</ul>
 	</p>
 
