@@ -40,6 +40,23 @@ hr {
 	padding-right: 24px;
 	padding-bottom: 24px;
 }
+.project-description {
+  max-width: 600px;
+  margin: auto;
+}
+.readMoreBtn {
+  margin-top: 0px;
+  padding: 5px 15px;
+  cursor: pointer;
+  min-width: 110px;
+  background-color: silver; /* your desired color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.readMoreBtn:hover {
+  background-color: gray; /* your desired hover color */
+}
 @media only screen and (max-width: 600px) {
 	#content {
 		padding-left: 12px;
@@ -48,6 +65,24 @@ hr {
 }
 </style>
 
+<script>
+function toggleReadMore(projectNumber) {
+  var fullDesc = document.getElementById("fullDesc" + projectNumber);
+  var btnText = document.getElementById("readMoreBtn" + projectNumber);
+
+  if (fullDesc.style.display === "none") {
+    fullDesc.style.display = "block";
+	btnText.style.marginTop = "10px";
+    btnText.innerHTML = "Collapse";
+  } else {
+    fullDesc.style.display = "none";
+	btnText.style.marginTop = "0px";
+    btnText.innerHTML = "Expand details";
+  }
+}
+</script>
+
+
 <div id="sidebar">
 	<img class="img-circle" src="/images/photo.jpg" width="128px" height="128px">
 	<p></p>
@@ -55,7 +90,8 @@ hr {
 	<p><span class="tag-text">Machine Learning</span></p>
 	<p><span class="tag-text">Neural Networks</span></p>
 	<p><span class="tag-text">Computer Vision</span></p>
-	<p><span class="tag-text">Predictive Modelling</span></p>
+	<p><span class="tag-text">Medical Imaging</span></p>
+	<p><span class="tag-text">Predictive Modeling</span></p>
 	<p><span class="tag-text">Time Series Analysis</span></p>
 	<p><span class="tag-text">Optimization</span></p>
 	<p><span class="tag-text">Data Extraction</span></p>
@@ -63,7 +99,7 @@ hr {
 
 <div id="content">
 
-	Machine learning research engineer developing AI products since 2017<br />
+	Machine learning research engineer and AI product developer<br />
 
 	<hr />
 
@@ -159,6 +195,17 @@ hr {
 	<hr />
 
 	<h3>Experience</h3>
+	<p><strong><a href="https://narf.ai" target="_blank">Narf AI</a></strong>, Warsaw, Poland</p>
+	<p>Co-founder</p>
+	<p>January 2019 - ongoing</p>
+	<p>
+	<ul>
+		<li>Data science consulting and AI product development.</li>
+	</ul>
+	</p>
+
+	<hr style="border-top: 1px solid Gainsboro;">
+
 	<p><strong><a href="https://www.iqvia.com" target="_blank">IQVIA</a></strong>, Warsaw, Poland</p>
 	<p>Senior Machine Learning Engineer</p>
 	<p>August 2019 - ongoing</p>
@@ -175,18 +222,7 @@ hr {
 	<p>April 2022 - ongoing</p>
 	<p>
 	<ul>
-		<li>Web scraping API and data extraction solutions.</li>
-	</ul>
-	</p>
-
-	<hr style="border-top: 1px solid Gainsboro;">
-
-	<p><strong><a href="https://narf.ai" target="_blank">Narf AI</a></strong>, Warsaw, Poland</p>
-	<p>Co-founder</p>
-	<p>November 2022 - ongoing</p>
-	<p>
-	<ul>
-		<li>Data science consulting and AI product development.</li>
+		<li>Web scraping API and data extraction solution.</li>
 	</ul>
 	</p>
 
@@ -197,44 +233,28 @@ hr {
 	<p>May 2021 - November 2022</p>
 	<p>
 	<ul>
-		<li>Machine Learning for processing of geospatial data.</li>
+		<li>Machine learning for processing of geospatial data.</li>
 		<li>Classification and segmentation of 3D point cloud data.</li>
 	</ul>
 	</p>
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
-	<p><strong><a href="https://infullmobile.com" target="_blank">inFullMobile</a></strong>, Warsaw, Poland</p>
+	<p><strong><a href="https://www.withintent.com" target="_blank">Intent</a></strong> (formerly inFullMobile), Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>February 2015 - August 2016</p>
-	<p>
-	<ul>
-		<li>WOW Keyboard - messaging app for sharing media content.</li>
-	</ul>
-	</p>
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
 	<p><strong><a href="https://www.senfino.com" target="_blank">Senfino</a></strong>, Warsaw, Poland</p>
 	<p>Software Engineer - iOS Applications Developer</p>
 	<p>June 2014 - January 2015</p>
-	<p>
-	<ul>
-		<li>4FUN APP - second screen app for a TV station.</li>
-	</ul>
-	</p>
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
 	<p><strong><a href="http://www.lacan.com.pl" target="_blank">Lacan Technologies</a></strong>, Warsaw, Poland</p>
 	<p>Junior Network Administrator</p>
 	<p>October 2011 - January 2012</p>
-	<p>
-	<ul>
-		<li>Network configuration and management.</li>
-		<li>Internal and external helpdesk.</li>
-	</ul>
-	</p>
 
 	<hr />
 
@@ -245,49 +265,6 @@ hr {
 	<p>Google Cloud Platform Big Data and Machine Learning Fundamentals by Google - Spetember 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/NZSLNJFXG5TV" target="_blank">NZSLNJFXG5TV</a>)</p>
 	<p>Data Science Math Skills by Duke University - July 2018 (<a href="https://www.coursera.org/account/accomplishments/verify/B29PQULU6RDY" target="_blank">B29PQULU6RDY</a>)</p>
 	<p>Pattern Discovery in Data Mining by University of Illinois at Urbana-Champaign - March 2015 (<a href="https://www.coursera.org/account/accomplishments/verify/YPUDJ6JQ6E" target="_blank">YPUDJ6JQ6E</a>)</p>
-
-	<hr />
-	
-	<h3>Publications</h3>
-	<p>
-		<strong>Mateusz Buda</strong>, Ashirbani Saha, Ruth Walsh, Sujata Ghate, Nianyi Li, Albert Święcicki, Joseph Y. Lo, Maciej A. Mazurowski. <i><a href="https://doi.org/10.1001/jamanetworkopen.2021.19100" target="_blank">A Data Set and Deep Learning Algorithm for the Detection of Masses and Architectural Distortions in Digital Breast Tomosynthesis Images.</a></i> JAMA Network Open, 2021.
-	</p>
-	<p>
-		Albert Święcicki, Nicholas Konz, <strong>Mateusz Buda</strong>, Maciej A. Mazurowski. <i><a href="https://doi.org/10.1038/s41598-021-89626-1" target="_blank">A generative adversarial network-based abnormality detection using only normal images for model training with application to digital breast tomosynthesis.</a></i> Scientific Reports, 2021.
-	</p>
-	<p>
-		Albert Święcicki, <strong>Mateusz Buda</strong>, Ashirbani Saha, Nianyi Li, Sujata V Ghate, Ruth Walsh, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551379" target="_blank">Generative adversarial network-based image completion to identify abnormal locations in digital breast tomosynthesis images.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
-	</p>
-	<p>
-		Albert Święcicki, Nicholas Said, Jonathan O'Donnell, <strong>Mateusz Buda</strong>, Nianyi Li, William A Jiranek, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551377" target="_blank">Automatic estimation of knee joint space narrowing by deep learning segmentation algorithms.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
-	</p>
-	<p>
-		Gourav Modanwal, Adithya Vellal, <strong>Mateusz Buda</strong>, Maciej A Mazurowski. <i><a href="https://doi.org/10.1117/12.2551301" target="_blank">MRI image harmonization using cycle-consistent generative adversarial network.</a></i> Medical Imaging 2020: Computer-Aided Diagnosis.
-	</p>
-	<p>
-		<strong>Mateusz Buda</strong>, Ehab A AlBadawy, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/ryai.2019180050" target="_blank">Deep Radiogenomics of Lower-Grade Gliomas: Convolutional Neural Networks Predict Tumor Genomic Subtypes Using MR Images.</a></i> Radiology: Artificial Intelligence, 2020.
-	</p>
-	<p>
-		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Kerry Castor, Jenny K Hoang, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.ultrasmedbio.2019.10.003" target="_blank">Deep Learning-Based Segmentation of Nodules in Thyroid Ultrasound: Improving Performance by Utilizing Markers Present in the Images.</a></i> Ultrasound in Medicine & Biology, 2020.
-	</p>
-	<p>
-		<strong>Mateusz Buda</strong>, Benjamin Wildman-Tobriner, Jenny K Hoang, David Thayer, Franklin N Tessler, William D Middleton, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019181343" target="_blank">Management of Thyroid Nodules Seen on US Images: Deep Learning May Match Performance of Radiologists.</a></i> Radiology, 2019.
-	</p>
-	<p>
-		Benjamin Wildman-Tobriner, <strong>Mateusz Buda</strong>, Jenny K Hoang, William D Middleton, David Thayer, Ryan G Short, Franklin N Tessler, Maciej A Mazurowski. <i><a href="https://doi.org/10.1148/radiol.2019182128" target="_blank">Using Artificial Intelligence to Revise ACR TI-RADS Risk Stratification of Thyroid Nodules: Diagnostic Accuracy and Utility.</a></i> Radiology, 2019.
-	</p>
-	<p>
-		<strong>Mateusz Buda</strong>, Ashirbani Saha, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.compbiomed.2019.05.002" target="_blank">Association of Genomic Subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm.</a></i> Computers in Biology and Medicine, 2019.
-	</p>
-	<p>
-		Maciej A Mazurowski, <strong>Mateusz Buda</strong>, Ashirbani Saha, Mustafa R. Bashir. <i><a href="https://doi.org/10.1002/jmri.26534" target="_blank">Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI.</a></i> Journal of Magnetic Resonance Imaging, 2018.
-	</p>
-	<p>
-		<strong>Mateusz Buda</strong>, Atsuto Maki, Maciej A Mazurowski. <i><a href="https://doi.org/10.1016/j.neunet.2018.07.011" target="_blank">A systematic study of the class imbalance problem in convolutional neural networks.</a></i> Neural Networks, 2018.
-	</p>
-	<p>
-		<a href="https://scholar.google.com/citations?user=xJRY-IIAAAAJ" target="_blank">Google Scholar Profile</a>
-	</p>
 
 	<hr />
 </div>
