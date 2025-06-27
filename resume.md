@@ -104,11 +104,14 @@ function toggleReadMore(projectNumber) {
 	<hr />
 
 	<h3>Education</h3>
-	<p><strong><a href="https://www.pw.edu.pl/engpw" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
-	<p>PhD Candidate, 2021</p>
-	<p>Thesis: <i>Computer-aided diagnosis by leveraging semantic domain knowledge in the development of machine learning models.</i></p>
+	<p><strong><a href="https://eng.pw.edu.pl" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
+	<p>Doctor of Philosophy, 2021 - 2025</p>
+	<p>Thesis: <i>Computer-aided image-based diagnosis: extensions of computational models with domain knowledge.</i></p>
 	<p>
 		Supervisors: <a href="https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_przelaskowski_artur/" target="_blank">Artur Przelaskowski, Ph.D.</a>, <a href="https://sites.duke.edu/mazurowski/" target="_blank">Maciej A. Mazurowski, Ph.D.</a>
+	</p>
+ 	<p>
+		Examiner: <a href="https://pbiecek.github.io" target="_blank">Przemysław Biecek, Ph.D.</a>
 	</p>
 
 	<hr style="border-top: 1px solid Gainsboro;">
@@ -125,7 +128,7 @@ function toggleReadMore(projectNumber) {
 
 	<hr style="border-top: 1px solid Gainsboro;">
 
-	<p><strong><a href="https://www.pw.edu.pl/engpw" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
+	<p><strong><a href="https://eng.pw.edu.pl" target="_blank">Warsaw University of Technology</a></strong>, Poland</p>
 	<p>Bachelor of Engineering in Computer Science, 2011 - 2015</p>
 	<p>
 		Thesis: <i>OCR system for text recognition in images of specified type.</i><br>
