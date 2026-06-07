@@ -83,19 +83,7 @@ function toggleReadMore(projectNumber) {
 </script>
 
 
-<div id="sidebar">
-	<img class="img-circle" src="/images/photo.jpg" width="128px" height="128px">
-	<p></p>
-	<h3>Mateusz Buda</h3>
-	<p><span class="tag-text">Machine Learning</span></p>
-	<p><span class="tag-text">Neural Networks</span></p>
-	<p><span class="tag-text">Computer Vision</span></p>
-	<p><span class="tag-text">Medical Imaging</span></p>
-	<p><span class="tag-text">Predictive Modeling</span></p>
-	<p><span class="tag-text">Time Series Analysis</span></p>
-	<p><span class="tag-text">Optimization</span></p>
-	<p><span class="tag-text">Data Extraction</span></p>
-</div>
+{% include sidebar.html %}
 
 <div id="content">
 	
